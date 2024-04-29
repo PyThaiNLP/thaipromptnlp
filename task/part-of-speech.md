@@ -8,7 +8,6 @@ You can do part-of-speech tagging in Llama 3 by the prompt:
 
 Example:
 
-Example:
 ```
 > ผมเล่นเกมที่บ้าน
 <
